@@ -1,2 +1,2 @@
 # noahgago.github.io
-# Noah Gago's github website
+# This page contains projects and code snippets of Noah Gago's coding career, enjoy!
